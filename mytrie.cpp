@@ -1,9 +1,9 @@
-#include<string>
+#include<string> 
 #include<iostream>
 #include<cstring>
 #include<fstream>
 using namespace std;
-
+//tHIS IS A CHANGE
 class Node{
 	Node *arr[26];
 	bool flag;
